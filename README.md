@@ -1,9 +1,9 @@
-# EXP 23 - CREATE API TO PRINT HELLO WORLD
+## EXP 23 - CREATE API TO PRINT HELLO WORLD
 
-## AIM:
+### AIM:
 To create an API to print Hello World
 
-## ALGORITHM:
+### ALGORITHM:
 
 1) Create a spring boot project using Spring Initilzr.
 2) Add required dependencies.
@@ -12,8 +12,7 @@ To create an API to print Hello World
 5) Run the project.
 6) View the result at http://localhost:8080/
 
-## PROGRAM:
-
+### PROGRAM:
 ### Controller.java
 
 java
@@ -29,9 +28,8 @@ public class Controller {
  }
 }
 ```
-## OUTPUT:
-
+### OUTPUT:
 <img width="454" alt="image" src="https://github.com/Monisha-11/API-TO-PRINT-HELLO-WORLD/assets/93427240/6b178230-b556-4827-a8fb-2edc967d8d8e">
 
-## RESULT:
+### RESULT:
 Hence, an API to print Hello World is created and executed successfully
